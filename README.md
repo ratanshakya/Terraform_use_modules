@@ -3,7 +3,6 @@
  
  
  terraform.exe init
-  497  terraform.exe appply
   498  terraform.exe apply
   499  notepad resouces.tf
   500  terraform.exe apply
@@ -14,7 +13,7 @@
   495  notepad resouces.tf
   496  terraform.exe init
   497  terraform.exe appply
-  498  terraform.exe apply
+
   499  notepad resouces.tf
   500  terraform.exe apply
   501  cd Documents/
@@ -30,8 +29,4 @@
   511  notepad resouces.tf
   512  ls
   513  notepad main.tf
-  514  notepad main.tf
-  515  notepad main.tf
-  516  notepad main.tf
-  517  notepad main.tf
   518  history
